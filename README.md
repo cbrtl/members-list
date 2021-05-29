@@ -13,7 +13,7 @@ ping one of the org maintainers on the discord server.
 | ------------ | ------------------------------------------------------------------------------- | ---------------------------------------- |
 | Srijan Paul  | <img src="https://avatars.githubusercontent.com/u/50487716?v=4" width="100px"/> | Typescript, PL dev, Lua and pixel art :) |
 | Nikola Jelic | <img src="https://avatars.githubusercontent.com/u/51965240?v=4" width="100px">  | N/A                                      |
-|              |                                                                                 |                                          |
+|  Manohar Pattanayak |<img src="https://avatars.githubusercontent.com/u/60555335?s=400&u=7c7123c02516a845291aef15baa93089c11c9d42&v=4" width="100px"  >                                                       | Web developer and Freelancer who loves to contribute open source         |
 
 ## Adding yourself to the member's list.
 
