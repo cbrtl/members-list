@@ -15,7 +15,7 @@ ping one of the org maintainers on the discord server.
 | [Nikola Jelic](https://github.com/NikolaJelic)          | <img src="https://avatars.githubusercontent.com/u/51965240?v=4" width="100px">                                                    | N/A                                                              |
 | [Manohar Pattanayak](https://github.com/manoharbabun)   | <img src="https://avatars.githubusercontent.com/u/60555335?s=400&u=7c7123c02516a845291aef15baa93089c11c9d42&v=4" width="100px"  > | Web developer and Freelancer who loves to contribute open source |
 | [Ankur Khandelwal](https://github.com/Ankur-Khandelwal) | <img src="https://avatars.githubusercontent.com/u/55295915?v=4" width="100px" />                                                  | Web Dev ｜ MERN ｜ Flutter ｜ The Big Bang Theory                |
-| [Hentai Chan](https://github.com/hentai-chan)           | <img src="https://avatars.githubusercontent.com/u/70948244?v=4" width="100px" />                                                  | Python and C++ developer in the making based ｜ in Europe        |
+| [Hentai Chan](https://github.com/hentai-chan)           | <img src="https://avatars.githubusercontent.com/u/70948244?v=4" width="100px" />                                                  | Python and C++ developer in the making ｜ based in Europe        |
 
 ## Adding yourself to the member's list.
 
