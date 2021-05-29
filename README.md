@@ -16,6 +16,10 @@ ping one of the org maintainers on the discord server.
 |              |                                                                                 |                                          |
 
 ## Adding yourself to the member's list.
+
+**NOTE:** If you're already familiar with Git and Github, then you don't have to do this, as it's mostly to introduce newbies.
+You can directly ping a moderator on the Discord server and you will be added.
+
 We expect basic knowledge of Git and Github for you to be able to pull this off.
 If you don't know how to use git, then don't worry. Atlassian has a some [great tutorials](https://www.atlassian.com/git/tutorials) on the topic.
 
