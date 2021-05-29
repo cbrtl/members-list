@@ -9,11 +9,12 @@ To add yourself to the member's list you can either make a Pull Request to this 
 ping one of the org maintainers on the discord server.
 
 ## cbrtl members.
-| Member name                                           | Member Profile picture                                                                                                            | Bio (optional)                                                   |
-| ----------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------- |
-| [Srijan Paul](https://github.com/srijan-paul)         | <img src="https://avatars.githubusercontent.com/u/50487716?v=4" width="100px"/>                                                   | Typescript, PL dev, Lua and pixel art :)                         |
-| [Nikola Jelic](https://github.com/NikolaJelic)        | <img src="https://avatars.githubusercontent.com/u/51965240?v=4" width="100px">                                                    | N/A                                                              |
-| [Manohar Pattanayak](https://github.com/manoharbabun) | <img src="https://avatars.githubusercontent.com/u/60555335?s=400&u=7c7123c02516a845291aef15baa93089c11c9d42&v=4" width="100px"  > | Web developer and Freelancer who loves to contribute open source |
+| Member name                                             | Member Profile picture                                                                                                            | Bio (optional)                                                   |
+| ------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------- |
+| [Srijan Paul](https://github.com/srijan-paul)           | <img src="https://avatars.githubusercontent.com/u/50487716?v=4" width="100px"/>                                                   | Typescript, PL dev, Lua and pixel art :)                         |
+| [Nikola Jelic](https://github.com/NikolaJelic)          | <img src="https://avatars.githubusercontent.com/u/51965240?v=4" width="100px">                                                    | N/A                                                              |
+| [Manohar Pattanayak](https://github.com/manoharbabun)   | <img src="https://avatars.githubusercontent.com/u/60555335?s=400&u=7c7123c02516a845291aef15baa93089c11c9d42&v=4" width="100px"  > | Web developer and Freelancer who loves to contribute open source |
+| [Ankur Khandelwal](https://github.com/Ankur-Khandelwal) | <img src="https://avatars.githubusercontent.com/u/55295915?v=4" width="100px" />                                                  | Web Dev ｜ MERN ｜ Flutter ｜ The Big Bang Theory                |
 
 ## Adding yourself to the member's list.
 
@@ -33,7 +34,8 @@ If you don't know how to use git, then don't worry. Atlassian has a some [great 
 
 3. Now scroll down to the list of members, it should be in a tabular format. Append the following lines at the end:
 ```
-| [Your name](your github profile link) | <img src="(your github avatar URL here)" width="100px">  | (Your Bio here, add N/A if None)  
+
+[Your name](your github profile link) | <img src="(your github avatar URL here)" width="100px">  | (Your Bio here, add N/A if None)  
 ```
 
 4. Add a meaningful commit message and click commit:
