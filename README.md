@@ -1,10 +1,8 @@
 # Official Member's list of cbrtl.
 
 ## Table of Contents
-- [Official Member's list of cbrtl.](#official-members-list-of-cbrtl)
-  - [Table of Contents](#table-of-contents)
-  - [cbrtl members.](#cbrtl-members)
-  - [Adding yourself to the member's list.](#adding-yourself-to-the-members-list)
+- [cbrtl members](##cbrtl-members)
+- [Adding yourself as a member](##adding-yourself-to-the-members-list)
 
 This repository exists to document the members of cbrtl community.
 To add yourself to the member's list you can either make a Pull Request to this repository, or
