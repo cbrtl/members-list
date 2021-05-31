@@ -18,7 +18,8 @@ ping one of the org maintainers on the discord server.
 | [Hentai Chan](https://github.com/hentai-chan)           | <img src="https://avatars.githubusercontent.com/u/70948244?v=4" width="100px" />                                                  | Python and C++ developer in the making ｜ based in Europe        |
 | [Shikha-Pika](https://github.com/Shikha-Pika)           | <img src="https://avatars.githubusercontent.com/u/72392916?v=4" width="100px">                                                    | N/A                                                              |
 | [Sambit Majhi](https://github.com/sambitraze)           | <img src="https://avatars.githubusercontent.com/u/23294656?v=4" width="100px">                                                    | Flutter, MERN, PERN, NEST Js, Vue Js, Firebase, Flask            |
-
+| [Aniket Shukla](https://github.com/aniket1404)          | <img src="https://avatars.githubusercontent.com/u/60666490?v=4" width="100px" /> | N/A   |
+           
 ## Adding yourself to the member's list.
 
 **NOTE:** If you're already familiar with Git and GitHub, then you don't have to do this, as it's mostly to introduce newbies.
